@@ -1,9 +1,3 @@
 This is the first push
-:wq
 
-
-
-:wq
-:q
-:q!
-
+This is the second edit to this file
